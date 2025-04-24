@@ -8,4 +8,7 @@ public class Main{
            System.out.println("Boom-------BAAM-----------------------------");
            System.out.println("Boom-------BAAM----------------");
     }
+
+  Student student = new Student();
+  student.sayHello();
 }
